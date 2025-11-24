@@ -1,113 +1,118 @@
-胖东来
-于东来
-
+LLM
+Transformer
+Ollama
 DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
+Hugging Face
+LangChain
+RAG
+Agent
+CoT
+Multi-modal
+ComfyUI
+Stable Diffusion
+Midjourney
+Sora
+Runway
+GitHub Trending
+Copilot
+Cursor
+Spring AI
+GraalVM
+Rust
+WebAssembly
+RISC-V
 NVIDIA
-黄仁勋
+CUDA
 
-AMD
+Self-hosted
+Homelab
+NAS
+Docker
+Kubernetes
+Unraid
+TrueNAS
+Synology
+Raspberry Pi
+OpenWrt
+Immich
+Jellyfin
+Navidrome
+Home Assistant
+Matter协议
+WiFi 7
+软路由
+PT邀请
+4K修复
 
-谷歌
-google
-gemini
-deepmind
+SpaceX
+Starship
+James Webb
+可控核聚变
+脑机接口
+Neuralink
+CRISPR
+mRNA
+室温超导
+量子计算
+固态电池
+人形机器人
+波士顿动力
+外骨骼
+生物黑客
 
-chatgpt
-openai
-sora
+955.WLB
+远程办公
+Digital Nomad
+Indie Hacker
+独立开发
+SaaS
+副业
+被动收入
+FIRE运动
+纳指100
+QQQ
+黄金ETF
+避险资产
+裁员名单
+N+1
 
-claude
-Anthropic
+深圳南山
+南山 暴雨
+南山 停水
+深圳湾公园
+大沙河生态长廊
+深圳 限电
+深圳 查车
+深中通道
 
-iphone
-ipad
-mac
-ios
+电动自行车
+九号电动
+小牛电动
+E-bike
+夜骑
+CityRide
+露营装备
+骨传导耳机
+SexTech
+情趣科技
+实体娃娃
+TPE材料
+AI伴侣
+AI Girlfriend
+Lovense
+春水堂
 
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+!娱乐圈
+!明星
+!综艺
+!出轨
+!相亲
+!彩礼
+!接盘
+!正能量
+!震惊
+!赢麻了
+!小鲜肉
+!饭圈
+!热搜
+!带货
